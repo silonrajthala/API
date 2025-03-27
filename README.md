@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About this Laravel Project
 
 API is a simple REST api application that validate the merchent details and return the status and message according to the request.
 
