@@ -186,7 +186,7 @@ class ApiController extends Controller
     
             $merchantCheckResponse = Http::withHeaders([
     
-                'Authorization' => 'Basic V2ViX1VzZXI6eVB6ZGVCa0NZQ1c1aEN5ZElRK2Jmdz09',
+                'Authorization' => 'Basic XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
                 'Content-Type' => 'application/json',
                 'Module' => 'V2Vi'
             ])->post("http://i.i.i.i:pppp/api/qpay/validate/wallet", [
